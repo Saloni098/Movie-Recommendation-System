@@ -1,6 +1,5 @@
 # Movie-Recommendation-System
 This repository contains a collaborative filtering based movie recommendation system, that uses user-item based model to recommend movies.
-This project is made during the Microsoft Engage mentorship programme 2022.
 
 ---
 
